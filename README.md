@@ -6,7 +6,7 @@
 
 **Galerie Artistique** est une expérience immersive d'art numérique que j'ai conçue et développée pour présenter mon savoir-faire en tant que designer UI/UX et développeur front-end. Ce projet fusionne mes passions pour l'art contemporain, les interactions utilisateur sophistiquées et le développement web moderne.
 
-→ [Explorer la galerie en ligne](#) (coming soon)
+→ [Explorer la galerie en ligne](https://galerie-artistique.vercel.app/)
 
 ## Ma vision créative
 
